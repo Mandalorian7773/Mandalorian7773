@@ -33,7 +33,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/376347/rust.svg" alt="rust" width="40" height="40" style="background-color: white; border-radius: 5px;"/> 
+  <img src="https://www.svgrepo.com/show/374056/rust.svg" alt="rust" width="40" height="40" style="background-color: white; border-radius: 5px;"/> 
 </a>
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
